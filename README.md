@@ -2,8 +2,6 @@
 
 This is the first file in this repo
 
-##Ipsum Below
+##Website
 
 some text
-
-some more text
